@@ -1,3 +1,17 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li a { 
+	list-style-type: none;
+}
+
+li a:hover { 
+	text-decoration: none;
+	background-color: black;
+}
+
 .navbar-default {
 	background-color: #b7b5b5;
 }
@@ -10,8 +24,5 @@
 }
 .navbar-nav li.nav-item a {
 	color: white;
-	float: left;
-	left: 0;
-	list-style-position: relative;
-}
+	
 
