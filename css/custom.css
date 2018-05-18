@@ -4,3 +4,14 @@
 #footer {
 	background-color: #b7b5b5;
 }
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+.navbar-nav li.nav-item a {
+	color: white;
+	float: left;
+	left: 0;
+	list-style-position: relative;
+}
+
