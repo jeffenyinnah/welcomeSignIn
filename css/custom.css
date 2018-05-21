@@ -7,8 +7,15 @@ body {
 
 
 
-h2{
+h2 {
 	text-align:center;
 	padding:60px;
-	
+
+}
+
+footer {
+	bottom:0;
+	position: absolute;
+	width: inherit;
+
 }
