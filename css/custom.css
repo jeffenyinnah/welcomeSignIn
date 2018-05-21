@@ -5,12 +5,25 @@ body {
 	height: 100px;
 }
 
-
+.navbar-pills {
+	text-align: center;
+}
 
 h2 {
 	text-align:center;
 	padding:60px;
 
+}
+
+form {
+	margin-right: 25px;
+	margin-left: 25px;
+	padding-left: 35%;
+	padding-right: 35%;
+}
+#btLa {
+	width: 100%;
+	text-align: center;
 }
 
 footer {
